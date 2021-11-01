@@ -4,7 +4,7 @@ Cryptocurrencies Analysis using unsupervised learning
 
 ## Objetive
 
-To analyze data related to cryptocurrencies (retrieved from [CryptoCompare](https://min-api.cryptocompare.com/data/all/coinlist]), since the output is unknown an unsupervised learning technique is requested to cluster the data applying the Principal Component Analysis (`PCA`) and `K-Means` algorithms.  
+To analyze data related to cryptocurrencies (retrieved from [CryptoCompare](https://min-api.cryptocompare.com/data/all/coinlist])), since the output is unknown an unsupervised learning technique is requested to cluster the data applying the Principal Component Analysis (`PCA`) and `K-Means` algorithms.  
 
 ## Deliverable 1: Preprocessing the Data for PCA
 
